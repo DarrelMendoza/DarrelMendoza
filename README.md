@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="DARRELMENDOZA | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="DARRELMENDOZA | Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />][facebook]
 [<img align="left" alt="DARRELMENDOZA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="DARRELMENDOZA | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="DARRELMENDOZA | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
