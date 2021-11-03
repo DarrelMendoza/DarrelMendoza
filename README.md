@@ -47,16 +47,18 @@
 
 <p> </p>
 
-<p align="right">
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary> </details> 
   
 <!--START_SECTION:activity-->
+<p align="right">
 1. 🗣 Updated Purchase Order UI
 2. ❗️ Updated Purchase Order Edit form and table
 3. ❌ Initialized purchaseOrder Warehouse Racks and Products
-<!--END_SECTION:activity-->
 </p>
+<!--END_SECTION:activity-->
+
 
 ## 📈 My GitHub Stats
 
