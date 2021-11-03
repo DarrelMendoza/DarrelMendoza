@@ -51,10 +51,9 @@
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelMendoza&theme=dracula" />                
 </a>
-<br>
-<a href="https://github.com/DarrelMendoza/DarrelMendoza">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula" />
- </a>
+
+!![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula)
+
 
 
 
