@@ -1,13 +1,7 @@
-### Hi there, I'm Darrel Mendoza - aka [DARPAKZ][facebook]
-<h3 align="center">
-    Hi There
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+### Hi there, I'm Darrel Mendoza - aka [DARPAKZ][facebook] <h3> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" </h3>
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-    I'm Philip!
-</h3>
-
 
 
 ## I'm a Developer, Entrepreneur, Dancer, and Gamer!!
