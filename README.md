@@ -45,7 +45,7 @@
 
 ## 🆕 My Recent Activity
 
-<img align="left" alt="Coding" width="320" src="https://cdn.dribbble.com/users/2429167/screenshots/6377539/gif.gif">
+<img align="left" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2429167/screenshots/6377539/gif.gif">
 
               
 <p> </p>
@@ -58,6 +58,7 @@
 <p><p>    </p>2. ❗️ Updated Purchase Order Edit form and table </p>
 <p><p>    </p>3. ❌ Initialized purchaseOrder Warehouse Racks and Products </p>
 <!--END_SECTION:activity-->
+<br></br>
 <br></br>
 
 ## 📈 My GitHub Stats
