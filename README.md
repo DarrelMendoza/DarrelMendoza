@@ -44,9 +44,17 @@
 
 ## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarrelMendoza&theme=dracula)
+<a href="https://github.com/DarrelMendoza/DarrelMendoza">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=darrelmendoza&theme=dracula&show_icons=true&locale=en&layout=compact)
+<a href="https://github.com/DarrelMendoza/DarrelMendoza">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />                
+</a>
+
+<a href="https://github.com/DarrelMendoza/DarrelMendoza">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula" />
+ </a>
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula)
 
