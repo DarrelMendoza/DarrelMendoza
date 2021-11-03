@@ -49,13 +49,15 @@
 
               
 <details>
- <summary>:zap: Recent GitHub Activity</summary> </details> 
+  <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 🗣 Updated Purchase Order UI
 2. ❗️ Updated Purchase Order Edit form and table
 3. ❌ Initialized purchaseOrder Warehouse Racks and Products
 <!--END_SECTION:activity-->
-<br></br>
+
+</details>
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
