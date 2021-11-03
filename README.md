@@ -8,7 +8,7 @@
 
 ## I'm a Developer, Entrepreneur, Dancer, and Gamer!!
 
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1365253/screenshots/11419536/media/35cb4024aca4bfdf92e00c885e017702.gif">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1663650/screenshots/7229818/media/3f830cdb4791bd82ccec36aea3f1666b.gif">
 
 - 🔭 I just started working at GlobIQ BV!
 - 🌱 I’m currently learning everything 🤣
