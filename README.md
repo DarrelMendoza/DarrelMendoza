@@ -57,9 +57,8 @@
 <p>                                 3. ❌ Initialized purchaseOrder Warehouse Racks and Products </p>
 <!--END_SECTION:activity-->
 
-<p> </p>
-<p> </p>
-<p> </p>
+<br></br>
+<br></br>
 
 ## 📈 My GitHub Stats
 
