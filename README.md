@@ -48,16 +48,17 @@
 <img align="left" alt="Coding" width="220" src="https://cdn.dribbble.com/users/2429167/screenshots/6377539/gif.gif">
 
               
+<p> </p>
+<p>
+               
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+ <summary>:zap: Recent GitHub Activity</summary> </details> </p>
 <!--START_SECTION:activity-->
-1. 🗣 Updated Purchase Order UI
-2. ❗️ Updated Purchase Order Edit form and table
-3. ❌ Initialized purchaseOrder Warehouse Racks and Products
+<p><p>    </p>1. 🗣 Updated Purchase Order UI </p>
+<p><p>    </p>2. ❗️ Updated Purchase Order Edit form and table </p>
+<p><p>    </p>3. ❌ Initialized purchaseOrder Warehouse Racks and Products </p>
 <!--END_SECTION:activity-->
-
-</details>
+<br></br>
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
