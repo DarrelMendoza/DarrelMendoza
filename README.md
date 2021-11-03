@@ -52,7 +52,7 @@
 3. ❌ Initialized purchaseOrder Warehouse Racks and Products
 <!--END_SECTION:activity-->
 
-</details>
+</details> <img align="left" alt="Coding" width="190" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
 
 
 ## 📈 My GitHub Stats
@@ -70,7 +70,6 @@
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=material-palenight)
 
-<img align="left" alt="Coding" width="190" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
 
 
 
