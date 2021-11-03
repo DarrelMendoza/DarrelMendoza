@@ -67,7 +67,7 @@
 
 <p> </p>
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=smaterial-palenight)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=material-palenight)
 
 
 
