@@ -53,10 +53,9 @@
 </a>
 
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula" />
  </a>
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula)
 
 
 [facebook]: https://www.facebook.com/darrel.mendoza.12/
