@@ -58,21 +58,21 @@
 ## 📈 My GitHub Stats
 
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarrelMendoza&theme=synthwave" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarrelMendoza&theme=material-palenight" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelMendoza&theme=synthwave" />                
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelMendoza&theme=material-palenight" />                
 </a>
 
 <p> </p>
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=synthwave)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=smaterial-palenight)
 
 
 
 
-[facebook]: https://www.facebook.com/darrel.mendoza.12/
+[facebook]: https://www.facebook.com/darrel.mendoza.12/material-palenight
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/darpaxx?fbclid=IwAR3oOpNqVUi_10w3HBMQVJQ0iYfxeAS5WjpWsx5Vno72W2cFfF88YFWC8AE
 [youtube]: https://www.youtube.com/channel/UCXb-h3Z01lzIQxxKI9J9Ixw
