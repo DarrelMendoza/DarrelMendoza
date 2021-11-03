@@ -49,14 +49,12 @@
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary> </details> 
+  <p align="right"> <summary>:zap: Recent GitHub Activity</summary> </details> </p>
   
 <!--START_SECTION:activity-->
-<p align="right">
-1. 🗣 Updated Purchase Order UI
-2. ❗️ Updated Purchase Order Edit form and table
-3. ❌ Initialized purchaseOrder Warehouse Racks and Products
-</p>
+<p align="right"> 1. 🗣 Updated Purchase Order UI </p>
+<p align="right"> 2. ❗️ Updated Purchase Order Edit form and table </p>
+<p align="right"> 3. ❌ Initialized purchaseOrder Warehouse Racks and Products </p>
 <!--END_SECTION:activity-->
 
 
