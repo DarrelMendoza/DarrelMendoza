@@ -46,7 +46,6 @@
 <img align="left" alt="Coding" width="90" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
 
 <details>
-   <p align="right">
   <summary>:zap: Recent GitHub Activity</summary> </details> 
   
 <!--START_SECTION:activity-->
@@ -54,7 +53,7 @@
 2. ❗️ Updated Purchase Order Edit form and table
 3. ❌ Initialized purchaseOrder Warehouse Racks and Products
 <!--END_SECTION:activity-->
-</p>
+
 
 ## 📈 My GitHub Stats
 
