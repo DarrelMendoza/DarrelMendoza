@@ -57,7 +57,7 @@
 </details>
 
 
-## 📊 My GitHub Stats
+## 📈 My GitHub Stats
 
 !![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarrelMendoza&theme=dracula)
 
