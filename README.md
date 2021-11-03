@@ -58,7 +58,6 @@
 <p><p>    </p>2. ❗️ Updated Purchase Order Edit form and table </p>
 <p><p>    </p>3. ❌ Initialized purchaseOrder Warehouse Racks and Products </p>
 <!--END_SECTION:activity-->
-<br></br>
 
 ---
 
