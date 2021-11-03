@@ -43,7 +43,7 @@
 
 ---
 
-<img align="left" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
+<img align="left" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary> </details> 
