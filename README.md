@@ -57,7 +57,7 @@
 <br></br>
 
 ## 📈 My GitHub Stats
-
+<br></br>
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarrelMendoza&theme=material-palenight" alt="Martin's GitHub Stats" />
 </a>
