@@ -26,8 +26,10 @@
 [<img align="left" alt="DARRELMENDOZA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 <p> </p>
 <p> </p>
+
 ### Languages and Tools:
 <p align="left"> 
 
