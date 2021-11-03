@@ -43,11 +43,11 @@
 
 ## 📈 My GitHub Stats
 
-!![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarrelMendoza&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarrelMendoza&theme=dracula)
 
-!![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=darrelmendoza&theme=dracula&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=darrelmendoza&theme=dracula&show_icons=true&locale=en&layout=compact)
 
-!![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula)
 
 
 [facebook]: https://www.facebook.com/darrel.mendoza.12/
