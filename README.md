@@ -70,7 +70,7 @@
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=material-palenight)
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
+<img align="left" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
 
 
 
