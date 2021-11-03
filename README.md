@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Entrepreneur, Dancer, and Gamer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just started working at GlobIQ BV!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
