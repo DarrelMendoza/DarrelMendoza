@@ -52,7 +52,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelMendoza&theme=dracula" />                
 </a>
 
-<br>
+--
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula)
 
