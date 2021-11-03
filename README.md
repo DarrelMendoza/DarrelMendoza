@@ -6,7 +6,7 @@
          </h1>        
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /></p>
 
-## I'm a Developer, Web Designer, Graphic Designer, Business Enthusiast, Dancer, and Gamer!!
+## I'm a Developer, Web/Graphic Designer, Business Enthusiast, Dancer, and Gamer!!
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1663650/screenshots/7229818/media/3f830cdb4791bd82ccec36aea3f1666b.gif">
 
