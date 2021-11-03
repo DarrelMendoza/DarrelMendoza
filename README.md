@@ -44,15 +44,13 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent GitHub Activity</summary> </details> <img align="left" alt="Coding" width="90" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
   
 <!--START_SECTION:activity-->
 1. 🗣 Updated Purchase Order UI
 2. ❗️ Updated Purchase Order Edit form and table
 3. ❌ Initialized purchaseOrder Warehouse Racks and Products
 <!--END_SECTION:activity-->
-
-</details> <img align="left" alt="Coding" width="190" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
 
 
 ## 📈 My GitHub Stats
