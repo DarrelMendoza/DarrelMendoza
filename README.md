@@ -46,17 +46,15 @@
 <img align="left" alt="Coding" width="220" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
 
 <p> </p>
-
+<br></br>
 <p>
 <details>
  <summary>:zap: Recent GitHub Activity</summary> </details> </p>
-  
 <!--START_SECTION:activity-->
-<p><p> </p>1. 🗣 Updated Purchase Order UI </p>
-<p><p> </p>2. ❗️ Updated Purchase Order Edit form and table </p>
-<p><p> </p>3. ❌ Initialized purchaseOrder Warehouse Racks and Products </p>
+<p><p>    </p>1. 🗣 Updated Purchase Order UI </p>
+<p><p>    </p>2. ❗️ Updated Purchase Order Edit form and table </p>
+<p><p>    </p>3. ❌ Initialized purchaseOrder Warehouse Racks and Products </p>
 <!--END_SECTION:activity-->
-
 <br></br>
 
 ## 📈 My GitHub Stats
