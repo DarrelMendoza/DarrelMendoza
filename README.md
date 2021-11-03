@@ -19,11 +19,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="DARRELMENDOZA | Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />][facebook]
-[<img align="left" alt="DARRELMENDOZA | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />][youtube]
-[<img align="left" alt="DARRELMENDOZA | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
-[<img align="left" alt="DARRELMENDOZA | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="DARRELMENDOZA | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
+[<img align="left" alt="DARRELMENDOZA | Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/FB-512.png" />][facebook]
+[<img align="left" alt="DARRELMENDOZA | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/YOUTUBE-512.png" />][youtube]
+[<img align="left" alt="DARRELMENDOZA | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/TWITTER-128.png" />][twitter]
+[<img align="left" alt="DARRELMENDOZA | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/LINKEDIN-512.png" />][linkedin]
+[<img align="left" alt="DARRELMENDOZA | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/INSTAGRAM-512.png" />][instagram]
 
 <br />
 
