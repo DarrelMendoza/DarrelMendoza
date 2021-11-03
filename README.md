@@ -43,10 +43,11 @@
 
 ---
 <br></br>
-<img align="left" alt="Coding" width="220" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
+<img align="left" alt="Coding" width="220" src="https://cdn.dribbble.com/users/2429167/screenshots/6377539/gif.gif">
 
 <p> </p>
 <p>
+## 📈 My Recent Activity
 <details>
  <summary>:zap: Recent GitHub Activity</summary> </details> </p>
 <!--START_SECTION:activity-->
