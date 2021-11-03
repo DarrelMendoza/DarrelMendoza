@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to party
+- ⚡ Fun fact: I love to party 🎉
+- 🍟 Also Fries 🤤 
 
 ### Connect with me:
 
@@ -68,7 +69,7 @@
 [youtube]: https://www.youtube.com/channel/UCXb-h3Z01lzIQxxKI9J9Ixw
 [instagram]: https://www.instagram.com/darpaaax/?fbclid=IwAR0dYKFQ7sP7CqMb1X_a5NYkT9f4Z2G5VPuifQaO4XpC78pF6IbU3stGGeo
 [linkedin]: https://www.linkedin.com/in/darrel-mendoza-655672211/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplaylist]: https://github.com/DarrelMendoza
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
