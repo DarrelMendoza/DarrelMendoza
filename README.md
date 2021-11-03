@@ -4,7 +4,7 @@
          height="45"
          width="45" </>  
          </h1>        
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /></p>
 
 ## I'm a Developer, Entrepreneur, Dancer, and Gamer!!
 
