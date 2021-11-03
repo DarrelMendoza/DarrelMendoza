@@ -42,11 +42,10 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
 ---
-
+<br></br>
 <img align="left" alt="Coding" width="220" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
 
 <p> </p>
-<br></br>
 <p>
 <details>
  <summary>:zap: Recent GitHub Activity</summary> </details> </p>
