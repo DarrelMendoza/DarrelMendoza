@@ -44,8 +44,9 @@
 ---
 
 <img align="left" alt="Coding" width="90" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
-<p align="right">
+
 <details>
+   <p align="right">
   <summary>:zap: Recent GitHub Activity</summary> </details> 
   
 <!--START_SECTION:activity-->
