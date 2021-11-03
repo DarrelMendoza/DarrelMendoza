@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelMendoza&theme=dracula" />                
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelMendoza&theme=dracula" />                
 </a>
 
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
