@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [DARPAKZ][facebook] 👋
+### Hi there, I'm Darrel Mendoza - aka [DARPAKZ][facebook] 👋
 
 
 
