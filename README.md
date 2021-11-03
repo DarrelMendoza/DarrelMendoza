@@ -65,9 +65,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelMendoza&theme=material-palenight" />                
 </a>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
 
 <p> </p>
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1071885/screenshots/13966332/media/c067da81454c23cb26a4fcad7ddbf21e.gif">
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=material-palenight)
 
