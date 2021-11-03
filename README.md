@@ -45,11 +45,10 @@
 
 !![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarrelMendoza&theme=dracula)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darrelmendoza&show_icons=true&locale=en&layout=compact" alt="darrelmendoza" /></p>
+!![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=DarrelMendoza&theme=dracula)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darrelmendoza&show_icons=true&locale=en" alt="darrelmendoza" /></p>
+!![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&theme=dracula)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrelmendoza&" alt="darrelmendoza" /></p>
 
 [facebook]: https://www.facebook.com/darrel.mendoza.12/
 [course]: http://vsCodeHero.com
