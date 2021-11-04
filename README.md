@@ -62,6 +62,7 @@
 <!--END_SECTION:activity-->
 <br></br>
 <br></br>
+<br></br>
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
