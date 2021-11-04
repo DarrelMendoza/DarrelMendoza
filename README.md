@@ -8,7 +8,7 @@
 
 ## I'm a Developer, Web/Graphic Designer, Business Enthusiast, and Gamer!!
 
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1663650/screenshots/7229818/media/3f830cdb4791bd82ccec36aea3f1666b.gif">
+<img align="right" alt="Coding" width="480" src="https://cdn.dribbble.com/users/1663650/screenshots/7229818/media/3f830cdb4791bd82ccec36aea3f1666b.gif">
 
 ### 🧐 More About Me:
 
