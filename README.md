@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I love to party 🎉
 - 🍟 Also Fries 🤤 
 
-### Connect with me:
+### 🤝 Connect with me:
 
 [<img align="left" alt="DARRELMENDOZA | Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/FB-512.png" />][facebook]
 [<img align="left" alt="DARRELMENDOZA | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/YOUTUBE-512.png" />][youtube]
