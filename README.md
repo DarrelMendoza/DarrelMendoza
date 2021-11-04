@@ -41,7 +41,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" align="left" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 
-
+ <br></br>  
 <img align="left" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2429167/screenshots/6377539/gif.gif">
 
               
@@ -49,7 +49,7 @@
 <p>
  
 ---         
- <br></br>        
+      
 ### 🤝 Connect with me:
          
 <details>
