@@ -10,6 +10,8 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1663650/screenshots/7229818/media/3f830cdb4791bd82ccec36aea3f1666b.gif">
 
+### 🧐 More About Me:
+
 - 🔭 I just started working at GlobIQ BV!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -17,7 +19,7 @@
 - ⚡ Fun fact: I love to party 🎉
 - 🍟 Also Fries 🤤 
 
-### 🧐 Connect with me:
+### Connect with me:
 
 [<img align="left" alt="DARRELMENDOZA | Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/FB-512.png" />][facebook]
 [<img align="left" alt="DARRELMENDOZA | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/YOUTUBE-512.png" />][youtube]
