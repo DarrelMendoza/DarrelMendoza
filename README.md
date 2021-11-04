@@ -50,7 +50,8 @@
               
 <p> </p>
 <p>
-               
+### 🤝 Connect with me:
+         
 <details>
  <summary>:zap: Recent GitHub Activity</summary> </details> </p>
 <!--START_SECTION:activity-->
