@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
-- <li>📙 Check out my <a href="https://drive.google.com/drive/my-drive">resume</a>.</li>
+-<li>📙 Check out my <a href="https://drive.google.com/drive/my-drive">resume</a>.</li>
 - ⚡ Fun fact: I love to party 🎉
 - 🍟 Also Fries 🤤 
 
