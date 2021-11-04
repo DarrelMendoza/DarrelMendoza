@@ -43,7 +43,7 @@
 
 ---
 
-<img align="left" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2429167/screenshots/6377539/gif.gif">
+<img align="left" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2429167/screenshots/6377539/gif.gif">
 
               
 <p> </p>
