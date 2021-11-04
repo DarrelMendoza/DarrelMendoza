@@ -61,8 +61,6 @@
 <p><p>    </p>3. ❌ Initialized purchaseOrder Warehouse Racks and Products </p>
 <!--END_SECTION:activity-->
 <br></br>
-<br></br>
-<br></br>
 
 ## 📈 My GitHub Stats
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
