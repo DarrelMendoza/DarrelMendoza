@@ -51,7 +51,7 @@
  
        
       
-### 🤝 Connect with me:
+### 💻 My Recent Activities:
          
 <details>
  <summary>:zap: Recent GitHub Activity</summary> </details> </p>
