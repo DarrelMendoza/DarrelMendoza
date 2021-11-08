@@ -72,7 +72,7 @@
 </a>
 
 <a href="https://github.com/DarrelMendoza/DarrelMendoza">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrelMendoza&theme=material-palenight" />                
+      
 </a>
 
 
