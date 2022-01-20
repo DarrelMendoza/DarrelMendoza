@@ -37,8 +37,8 @@
 <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" align="left" alt="javascript" width="40" height="40"/></a>
 <a href="https://ionicframework.com/docs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" align="left" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" align="left" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" width="40" height="40"/> </a> 
