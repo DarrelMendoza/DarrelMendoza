@@ -23,7 +23,7 @@
 ### 🤝 Connect with me:
 
 [<img align="left" alt="DARREL | Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/FB-512.png" />][facebook]
-[<img align="left" alt="DARRELMENDOZAGWAPOYESSIR | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/YOUTUBE-512.png" />][youtube]
+[<img align="left" alt="DARREL | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/YOUTUBE-512.png" />][youtube]
 [<img align="left" alt="DARRELMENDOZAGWAPOYESSIR | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/TWITTER-128.png" />][twitter]
 [<img align="left" alt="DARRELMENDOZAGWAPOYESSIR | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/LINKEDIN-512.png" />][linkedin]
 [<img align="left" alt="DARRELMENDOZAGWAPOYESSIR | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/INSTAGRAM-512.png" />][instagram]
