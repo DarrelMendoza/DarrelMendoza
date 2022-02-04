@@ -61,7 +61,7 @@
 <br>
 
 ### Front-End Frameworks:
-
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" align="left" alt="bootstrap" width="40" height="40"/> </a>
 
 
 <br>
@@ -69,7 +69,7 @@
 ### Git Clients:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" align="left" alt="git" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" align="left" alt="bootstrap" width="40" height="40"/> </a>
+
 
 <br>
 
