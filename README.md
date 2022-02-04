@@ -32,7 +32,7 @@
 
 ### 🔨 Web Application Frameworks:
 
-
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://servoy.com/wp-content/uploads/O_Servoy_Logo_forweb.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="javascript" width="40" height="40"/></a>
 <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" align="left" alt="javascript" width="40" height="40"/></a>
 <a href="https://angular.io/" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/nodejs-icon-1.svg" align="left" alt="javascript" width="40" height="40"/></a>
@@ -40,7 +40,7 @@
 <a href="https://ionicframework.com/docs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" align="left" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://servoy.com/wp-content/uploads/O_Servoy_Logo_forweb.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
+
 
 
 <br>
@@ -49,12 +49,10 @@
 
 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-svg-vector.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://image.winudf.com/v2/image1/Y29tLmx1Y2lkY2hhcnQuYW5kcm9pZC5jaGFydF9pY29uXzE2MzE3MTc4OThfMDQx/icon.png?w=&fakeurl=1" align="left" alt="postgresql" width="40" height="40"/> </a> 
+
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/asana-logo.svg" align="left" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/codepen-icon.svg" align="left" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" align="left" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" align="left" alt="bootstrap" width="40" height="40"/> </a>
+
+
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="left" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="left" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" align="left" alt="photoshop" width="40" height="40"/> </a> 
@@ -72,10 +70,14 @@
 <br>
 
 ### 🔨 Git Clients:
+<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" align="left" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" align="left" alt="bootstrap" width="40" height="40"/> </a>
 
 <br>
 
 ### 🔨 Web Design and Prototyping Tools:
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://image.winudf.com/v2/image1/Y29tLmx1Y2lkY2hhcnQuYW5kcm9pZC5jaGFydF9pY29uXzE2MzE3MTc4OThfMDQx/icon.png?w=&fakeurl=1" align="left" alt="postgresql" width="40" height="40"/> </a> 
 
 <br>
 
@@ -84,7 +86,7 @@
 <br>
 
 ### 🔨 Miscellaneous Web Development Tools:
-
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/codepen-icon.svg" align="left" alt="postgresql" width="40" height="40"/> </a> 
 
 <br></br>
 <br></br>
