@@ -84,7 +84,8 @@
 ### Collaboration Tools:
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/asana-logo.svg" align="left" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://uploads-ssl.webflow.com/5ebd54898c31000820363e17/5f281f3ca33484c228b6480e_jira-logo-C71F8C0324-seeklogo.com.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://uploads-ssl.webflow.com/5ebd54898c31000820363e17/5f281f3ca33484c228b6480e_jira-logo-C71F8C0324-seeklogo.com.png" align="left" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
 
 <br>
 
