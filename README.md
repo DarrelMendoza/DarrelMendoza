@@ -50,14 +50,12 @@
 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-svg-vector.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/asana-logo.svg" align="left" alt="postgresql" width="40" height="40"/> </a> 
+
 
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="left" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="left" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" align="left" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" align="left" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png" align="left" alt="photoshop" width="40" height="40"/> </a> 
+
 
 <br>
 
@@ -78,10 +76,14 @@
 
 ### 🔨 Web Design and Prototyping Tools:
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://image.winudf.com/v2/image1/Y29tLmx1Y2lkY2hhcnQuYW5kcm9pZC5jaGFydF9pY29uXzE2MzE3MTc4OThfMDQx/icon.png?w=&fakeurl=1" align="left" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" align="left" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" align="left" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png" align="left" alt="photoshop" width="40" height="40"/> </a> 
 
 <br>
 
 ### 🔨 Collaboration Tools:
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/asana-logo.svg" align="left" alt="postgresql" width="40" height="40"/> </a> 
 
 <br>
 
