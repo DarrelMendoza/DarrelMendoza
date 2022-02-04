@@ -30,7 +30,7 @@
 
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨 Web Application Frameworks:
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="javascript" width="40" height="40"/></a>
@@ -56,6 +56,30 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" align="left" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" align="left" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png" align="left" alt="photoshop" width="40" height="40"/> </a> 
+
+<br>
+
+### 🔨 Code and Text Editors:
+
+<br>
+
+### 🔨 Front-End Frameworks:
+
+<br>
+
+### 🔨 Git Clients:
+
+<br>
+
+### 🔨 Web Design and Prototyping Tools:
+
+<br>
+
+### 🔨 Collaboration Tools:
+
+<br>
+
+### 🔨 Miscellaneous Web Development Tools:
 
 
 <br></br>
