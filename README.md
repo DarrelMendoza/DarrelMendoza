@@ -54,6 +54,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" align="left" alt="photoshop" width="40" height="40"/> </a> 
 
 <br></br>
+<br></br>
 
 <img align="left" alt="Coding" width="430" src="https://cdn.dribbble.com/users/2429167/screenshots/6377539/gif.gif">
 
