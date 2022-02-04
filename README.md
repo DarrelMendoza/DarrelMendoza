@@ -35,6 +35,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="javascript" width="40" height="40"/></a>
 <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" align="left" alt="javascript" width="40" height="40"/></a>
+<a href="https://ionicframework.com/docs/" target="_blank"> <img src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" align="left" alt="javascript" width="40" height="40"/></a>
 <a href="https://ionicframework.com/docs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" align="left" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
