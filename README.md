@@ -84,6 +84,7 @@
 ### Collaboration Tools:
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/asana-logo.svg" align="left" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
 
 <br>
 
