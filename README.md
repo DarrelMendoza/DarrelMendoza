@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Grow my skillset
-- 📙 Check out my <a href="https://drive.google.com/file/d/1ziNKOxAxymfoQenjY9D7_DJFUIgZtirN/view?usp=sharing">resume</a>.
+- 📙 Check out my <a href="https://drive.google.com/file/d/12GsMyQpfPGX31KwRfQY_Fwt7F9vSW3wF/view?usp=sharing">resume</a>.
 - ⚡ Fun fact: I love to party 🎉
 - 🍟 Also Fries 🤤 
 
