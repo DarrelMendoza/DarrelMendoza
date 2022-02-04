@@ -32,15 +32,13 @@
 
 ### Web Application Frameworks:
 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://servoy.com/wp-content/uploads/O_Servoy_Logo_forweb.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="javascript" width="40" height="40"/></a>
-<a href="https://angular.io/" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/nodejs-icon-1.svg" align="left" alt="javascript" width="40" height="40"/></a>
-
-
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="left" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="left" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.servoy.com/" target="_blank"> <img src="https://servoy.com/wp-content/uploads/O_Servoy_Logo_forweb.png" align="left" alt="Servoy" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="Javascript" width="40" height="40"/></a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/nodejs-icon-1.svg" align="left" alt="NodeJS" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="Java" width="40" height="40"/> </a> 
+<a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" align="left" alt="PHP" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="left" alt="HTML5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="left" alt="CSS3" width="40" height="40"/> </a> 
 
 
 <br>
