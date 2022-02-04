@@ -15,7 +15,7 @@
 - 🔭 I just started working at GlobIQ BV!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Grow my skillset
 - 📙 Check out my <a href="https://drive.google.com/file/d/1ziNKOxAxymfoQenjY9D7_DJFUIgZtirN/view?usp=sharing">resume</a>.
 - ⚡ Fun fact: I love to party 🎉
 - 🍟 Also Fries 🤤 
