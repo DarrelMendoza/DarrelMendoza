@@ -67,7 +67,7 @@
 ### Code and Text Editors:
 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-svg-vector.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://www.seekpng.com/png/full/242-2425273_sublime-text-icon-sublime-text-3-icon-png.png" align="left" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://www.fileshipposoftwares.com/wp-content/uploads/2019/12/w628Yrnl.jpg" align="left" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" align="left" alt="postgresql" width="40" height="40"/> </a>
 
 <br>
