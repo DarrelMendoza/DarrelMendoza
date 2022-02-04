@@ -46,6 +46,13 @@
 
 <br>
 
+### Database Management Systems:
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
+
+<br>
+
 ### Code and Text Editors:
 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-svg-vector.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
@@ -54,9 +61,7 @@
 <br>
 
 ### Front-End Frameworks:
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
+
 
 
 <br>
