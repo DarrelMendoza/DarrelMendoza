@@ -44,7 +44,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://servoy.com/wp-content/uploads/O_Servoy_Logo_forweb.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-svg-vector.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://w7.pngwing.com/pngs/228/272/png-transparent-diagram-lucidchart-computer-icons-mind-map-text-orange-smiley-thumbnail.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://image.winudf.com/v2/image1/Y29tLmx1Y2lkY2hhcnQuYW5kcm9pZC5jaGFydF9pY29uXzE2MzE3MTc4OThfMDQx/icon.png?w=&fakeurl=1" align="left" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/asana-logo.svg" align="left" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" align="left" alt="git" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" alt="git" width="40" height="40"/> </a> 
