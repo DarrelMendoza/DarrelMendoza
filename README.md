@@ -57,7 +57,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" align="left" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" align="left" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://e7.pngegg.com/pngimages/509/659/png-clipart-sqlite-database-browser-web-browser-windev-%E6%95%B0%E6%8D%AE-mac-browser-thumbnail.png" align="left" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://sqlitebrowser.org/images/sqlitebrowser.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
 
 
 
