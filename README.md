@@ -91,7 +91,6 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/asana-logo.svg" align="left" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://uploads-ssl.webflow.com/5ebd54898c31000820363e17/5f281f3ca33484c228b6480e_jira-logo-C71F8C0324-seeklogo.com.png" align="left" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" align="left" alt="postgresql" width="40" height="40"/> </a> 
 
 <br>
 
