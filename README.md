@@ -59,7 +59,7 @@
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" align="left" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://sqlitebrowser.org/" target="_blank"> <img src="https://sqlitebrowser.org/images/sqlitebrowser.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.allroundautomations.com/products/pl-sql-developer/?gclid=CjwKCAiAvaGRBhBlEiwAiY-yMNHbuCFn_bspFtNFaCcPO9Qfc2P6kTI2BrRgjXlOjulnaCDwgoWCiBoCZnUQAvD_BwE" target="_blank"> <img src="https://s.softdeluxe.com/icons/png/128/6785/6785712.png" align="left" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://downloadly.net/wp-content/uploads/2020/03/PLSQL-Developer.png" target="_blank"> <img src="https://download.logo.wine/logo/Oracle_Application_Express/Oracle_Application_Express-Logo.wine.png" align="left" alt="postgresql" width="80" height="45"/> </a>
+<a href="https://www.oracle.com/ph/index.html" target="_blank"> <img src="https://download.logo.wine/logo/Oracle_Application_Express/Oracle_Application_Express-Logo.wine.png" align="left" alt="postgresql" width="80" height="45"/> </a>
 
 
 <br>
