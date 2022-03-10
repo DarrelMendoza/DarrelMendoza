@@ -61,8 +61,6 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://s.softdeluxe.com/icons/png/128/6785/6785712.png" align="left" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://downloadly.net/wp-content/uploads/2020/03/PLSQL-Developer.png" target="_blank"> <img src="https://download.logo.wine/logo/Oracle_Application_Express/Oracle_Application_Express-Logo.wine.png" align="left" alt="postgresql" width="80" height="45"/> </a>
 
-https://s.softdeluxe.com/icons/png/128/6785/6785712.png
-
 
 <br>
 
