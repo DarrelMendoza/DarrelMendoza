@@ -69,7 +69,7 @@
 
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" align="left" alt="mysql" width="60" height="40"/> </a> 
 <a href="https://yarnpkg.com/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/yarn-logo.png" align="left" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://chocolatey.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Chocolatey_icon.png" align="left" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://chocolatey.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Chocolatey_icon.png" align="left" alt="postgresql" width="50" height="40"/> </a>
 <a href="https://cocoapods.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/cocoapods-logo.png" align="left" alt="postgresql" width="50" height="40"/> </a>
 
 <br>
