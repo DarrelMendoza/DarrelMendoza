@@ -58,7 +58,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" align="left" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://sqlitebrowser.org/images/sqlitebrowser.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/ph/database/technologies/appdev/plsql.html" target="_blank"> <img src="https://downloadly.net/wp-content/uploads/2020/03/PLSQL-Developer.png" align="left" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://downloadly.net/wp-content/uploads/2020/03/PLSQL-Developer.png" target="_blank"> <img src="https://downloadly.net/wp-content/uploads/2020/03/PLSQL-Developer.png" align="left" alt="postgresql" width="40" height="40"/> </a>
 
 
 
