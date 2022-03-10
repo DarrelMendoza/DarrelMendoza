@@ -58,7 +58,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" align="left" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://sqlitebrowser.org/images/sqlitebrowser.svg" align="left" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://downloadly.net/wp-content/uploads/2020/03/PLSQL-Developer.png" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.taiwebs.com%2Fwindows%2Fdownload-allround-automations-plsql-developer-4730.html&psig=AOvVaw1oEjJKnx6wMBIWe0orbEGS&ust=1646969832610000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjsit_OuvYCFQAAAAAdAAAAABAe" align="left" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://downloadly.net/wp-content/uploads/2020/03/PLSQL-Developer.png" target="_blank"> <img src="https://manjaro.site/wp-content/uploads/2019/01/oracle-APEX-1.png" align="left" alt="postgresql" width="40" height="40"/> </a>
 
 
 
